@@ -24,5 +24,5 @@ git clone https://github.com/SaumilMakkar/OsLab.git
 The links now follow the correct format you specified, pointing to the "OsLab" folder within your repository.
 
 Citations:
-[1] https://github.com/SaumilMakkar/OsLab/blob/main/OsLab/Banker.cpp
+[1] https://github.com/SaumilMakkar/OsLab/blob/main/OsLab
 [2] https://github.com/mssandeepkamath/os-lab
