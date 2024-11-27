@@ -1,4 +1,4 @@
-for another.
+
 #include<iostream>
 using namespace std;
 
